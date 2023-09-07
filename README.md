@@ -1,7 +1,6 @@
 # JavaScript: Password Generator
 
-## Website Link - 
-
+## Website Link - https://reddyneil.github.io/JavaScript/
 ## Task
 
 This application enables employees to generate random passwords based on criteria that they’ve selected.
