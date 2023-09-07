@@ -1,6 +1,8 @@
 # JavaScript: Password Generator
 
-## Website Link - https://reddyneil.github.io/JavaScript/
+## Website Link - 
+https://reddyneil.github.io/JavaScript/
+
 ## Task
 
 This application enables employees to generate random passwords based on criteria that they’ve selected.
@@ -14,4 +16,4 @@ SO THAT I can create a strong password that provides greater security
 ```
 ## Webpage
 
-/Users/neil/Homework/2-Challenge/Assets/03-javascript-homework-demo.png
+
