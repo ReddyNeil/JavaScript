@@ -1,7 +1,7 @@
 // Assignment Code
 var generateBtn = document.querySelector("#generate");
 
-// Map to store character types and  properties
+// Map to store character types and their properties
 var charTypes = new Map([
   ['lowercase', {chars: 'abcdefghijklmnopqrstuvwxyz', prompt: 'include lowercase letters'}],
   ['uppercase', {chars: 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', prompt: 'include uppercase letters'}],
